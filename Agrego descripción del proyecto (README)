@@ -1,0 +1,17 @@
+README.md
+# Reto: Country Vaccinations
+
+Este notebook forma parte de la solución al reto de análisis de vacunación global.
+
+## Contenido del proyecto
+- Limpieza y exploración del dataset `country_vaccinations.csv` de Kaggle.
+- Análisis de dosis aplicadas, promedio por país y diferencias entre registros.
+- Resultados exportados en `resultadosReto.xlsx`.
+
+## Tecnologías utilizadas
+- Python  
+- Pandas   
+- Google Colab  
+
+ **Fecha:** Octubre 2025  
+ **Autor:** Royed Alberto Herrera Cano
